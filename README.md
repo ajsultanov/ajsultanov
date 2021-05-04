@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajsultanov&layout=compact&theme=dracula&bg_color=90,404,204)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adam-sultanov/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adam-sultanov/0" alt="Recent Article 0">

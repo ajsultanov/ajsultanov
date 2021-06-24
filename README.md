@@ -7,8 +7,8 @@
   - 🐥 [Twitter](https://twitter.com/adam_sultanov)
 - 😄 Pronouns: he/him
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajsultanov&layout=compact&theme=dracula&bg_color=90,404,204)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajsultanov&layout=compact&theme=dracula&bg_color=45,404,204)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Adams's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajsultanov&hide=stars,contribs&theme=dracula&bg_color=90,024,404)](https://github.com/anuraghazra/github-readme-stats)
+[![Adams's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajsultanov&hide=stars,contribs&theme=dracula&bg_color=45,024,404)](https://github.com/anuraghazra/github-readme-stats)
 
 

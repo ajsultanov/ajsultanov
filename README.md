@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔬 Currently learning D3 & P5
+- 🔬 Currently learning: TypeScript
 - 📫 Reach me:
   - 🤝 [LinkedIn](https://www.linkedin.com/in/adam-sultanov/)
   - 📇 [Medium Articles](https://adam-sultanov.medium.com/)
